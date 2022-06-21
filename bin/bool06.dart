@@ -6,5 +6,8 @@
     Returns:
         bool
     */
+bool func(int a) {
+  return a % 2 == 0;
+}
 
 void main() {}
